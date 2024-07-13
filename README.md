@@ -10,6 +10,7 @@
 <br></br>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=atulv07&theme=onestar&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
